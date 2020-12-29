@@ -20,9 +20,6 @@ fields:
   name: contact
   fields:
   - type: text
-    name: email
-    label: email
-  - type: text
     name: twitter_handle
     label: twitter_handle
   - type: text
